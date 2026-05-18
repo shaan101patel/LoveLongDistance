@@ -5,7 +5,7 @@ LoveDistance is for **best friends or couples** who want to stay close across lo
 
 The app is **Expo + React Native** with an optional **Supabase** backend: auth, pairing, prompts, presence, timeline, habits, and notifications. A **mock** mode runs everything in-memory for fast local UX work.
 
-<img width="216" height="550" alt="image" src="https://github.com/user-attachments/assets/b1790520-f052-4bf7-803f-1ed1357bd6f1" /> <img width="216" height="550" alt="image" src="https://github.com/user-attachments/assets/3bdbab42-fc15-4b07-b91d-3f991f2b7ac1" /> <img width="216" height="550" alt="image" src="https://github.com/user-attachments/assets/21a71f6c-f64c-418e-a451-eff8b1c80000" />
+<img width="240" height="550" alt="image" src="https://github.com/user-attachments/assets/b1790520-f052-4bf7-803f-1ed1357bd6f1" /> <img width="240" height="550" alt="image" src="https://github.com/user-attachments/assets/3bdbab42-fc15-4b07-b91d-3f991f2b7ac1" /> <img width="240" height="550" alt="image" src="https://github.com/user-attachments/assets/21a71f6c-f64c-418e-a451-eff8b1c80000" />
 
 
 
